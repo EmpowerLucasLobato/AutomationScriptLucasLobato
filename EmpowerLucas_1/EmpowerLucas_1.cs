@@ -68,7 +68,8 @@ namespace EmpowerLucas_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
-			engine.GenerateInformation("Hello word"); 
+			engine.GenerateInformation("Hello word");
+			// Change
 		}
 	}
 }
